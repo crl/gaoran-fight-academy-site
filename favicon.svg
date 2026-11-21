@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="高燃打斗">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c0472f" />
+      <stop offset="1" stop-color="#8e2a1e" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="url(#g)" />
+  <rect x="3" y="3" width="58" height="58" rx="10" fill="none" stroke="#f6e5d2" stroke-opacity="0.35" />
+  <text x="32" y="45" font-family="Songti SC, SimSun, serif" font-size="36" fill="#f6e5d2" text-anchor="middle">燃</text>
+</svg>
